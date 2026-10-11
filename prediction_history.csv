@@ -1,0 +1,12 @@
+timestamp,filename,prediction,confidence
+2026-10-11T21:17:58,potato.jpg,Tomato_Early_blight,0.7372471690177917
+2026-10-11T21:18:02,potato.jpg,Tomato_Early_blight,0.7372471690177917
+2026-10-11T21:19:07,0ca16873-eeac-47e9-9a87-1859950daab7___JR_FrgE.S 2835_new30degFlipLR.JPG,Apple___Black_rot,1.0
+2026-10-11T21:20:27,0f1fb568-1b12-45ef-ad99-c59fa9075693___RS_LB 3242.JPG,Potato___Early_blight,0.9821736812591552
+2026-10-11T21:21:01,5aee3e9f-0469-42e7-8ae7-56f7a1900fd5___RS_Early.B 9091.JPG,Potato___Early_blight,1.0
+2026-10-11T21:22:27,potato-diseases.jpg,Corn_(maize)___Northern_Leaf_Blight,0.7673236131668091
+2026-10-11T21:26:41,journal.pone.0262629.g007.PNG,Tomato_Late_blight,1.0
+2026-10-11T23:27:37,potato-diseases.jpg,Corn_(maize)___Northern_Leaf_Blight,0.7673236131668091
+2026-10-11T23:38:50,potato-diseases.jpg,Corn_(maize)___Common_rust_,0.330961525440216
+2026-10-11T23:39:36,potato.jpg,Corn_(maize)___Common_rust_,0.3160238862037658
+2026-10-11T23:40:18,journal.pone.0262629.g007.PNG,Corn_(maize)___Common_rust_,0.3218948245048523
